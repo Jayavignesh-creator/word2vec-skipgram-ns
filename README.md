@@ -1,4 +1,4 @@
-# Word2Vec (NumPy) - Quick Start
+# Word2Vec Skip Gram with Negative Sampling
 
 This repo contains a small Word2Vec skip-gram + negative sampling training pipeline written in NumPy. It uses wikipedia's text8 dataset for training.
 
